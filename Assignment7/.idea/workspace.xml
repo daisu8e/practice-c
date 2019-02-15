@@ -12,77 +12,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="daf0706b-6b57-4db1-87fe-ca52e9e94eb8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Assignment3/.idea/Assignment3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment3/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment3/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment3/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment3/main.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment3/vc_fibonacci.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment3/vc_fibonacci.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment3/vc_iterative_factorial.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment3/vc_iterative_factorial.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment3/vc_iterative_power.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment3/vc_iterative_power.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment3/vc_recursive_factorial.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment3/vc_recursive_factorial.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment3/vc_recursive_power.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment3/vc_recursive_power.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment4/.idea/Assignment4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment4/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment4/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment4/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment4/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment4/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment4/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment4/main.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment4/vc_strcapitalize.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment4/vc_strcmp.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment4/vc_strcpy.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment4/vc_strcpy.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment4/vc_strncpy.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment4/vc_strncpy.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment4/vc_strupcase.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment5/vc_print_memory.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment5/vc_print_memory.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment5/vc_putstr_non_printable.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment5/vc_putstr_non_printable.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment5/vc_str_is_alpha.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment5/vc_str_is_alpha.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment5/vc_str_is_lowercase.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment5/vc_str_is_lowercase.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment5/vc_str_is_numeric.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment5/vc_str_is_numeric.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment5/vc_str_is_printable.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment5/vc_str_is_printable.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment5/vc_str_is_uppercase.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment5/vc_str_is_uppercase.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment5/vc_strcat.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment5/vc_strcat.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment5/vc_strlcat.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment5/vc_strlcat.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment5/vc_strlcpy.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment5/vc_strlcpy.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment5/vc_strncat.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment5/vc_strncat.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vc_concat_params.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vc_concat_params.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vc_convert_base.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vc_convert_base.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vc_range.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vc_range.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vc_split_whitespaces.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vc_split_whitespaces.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vc_strdup.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vc_strdup.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vc_ultimate_range.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vc_ultimate_range.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment8/Exercise05/.idea/Exercise05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment8/Exercise05/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment8/Exercise05/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment8/Exercise05/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment8/Exercise05/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment8/Exercise05/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment8/Exercise05/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment8/Exercise05/vc_hexdump.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment8/vc_abs.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment8/vc_boolean.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment8/vc_param_to_tab.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment8/vc_param_to_tab.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment8/vc_stock.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -93,17 +37,17 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="63" selection-start-line="63" selection-end-line="63" />
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -117,7 +61,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vc_concat_params.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
@@ -199,6 +143,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -210,11 +155,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -248,15 +193,16 @@
       <option name="presentableId" value="Default" />
       <updated>1549921593716</updated>
       <workItem from="1549921595185" duration="32254000" />
+      <workItem from="1550097829895" duration="542000" />
+      <workItem from="1550158647722" duration="405000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32254000" />
+    <option name="totallyTimeSpent" value="33201000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
@@ -306,9 +252,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/vc_range.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -344,34 +287,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vc_range.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vc_ultimate_range.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vc_concat_params.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vc_split_whitespaces.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vc_convert_base.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -379,12 +294,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="63" selection-start-line="63" selection-end-line="63" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/vc_convert_base.c">
       <provider selected="true" editor-type-id="text-editor">
@@ -397,6 +308,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vc_split_whitespaces.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vc_concat_params.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vc_ultimate_range.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vc_range.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>

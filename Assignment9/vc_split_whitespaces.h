@@ -1,0 +1,6 @@
+#ifndef ASSIGNMENT9_VC_SPLIT_WHITESPACES_H
+#define ASSIGNMENT9_VC_SPLIT_WHITESPACES_H
+
+char **vc_split_whitespaces(char *src);
+
+#endif //ASSIGNMENT9_VC_SPLIT_WHITESPACES_H
