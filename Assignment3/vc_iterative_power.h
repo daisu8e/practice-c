@@ -1,0 +1,6 @@
+#ifndef ASSIGNMENT3_VC_ITERATIVE_POWER_H
+#define ASSIGNMENT3_VC_ITERATIVE_POWER_H
+
+int iterative_power(int n, int power);
+
+#endif //ASSIGNMENT3_VC_ITERATIVE_POWER_H

@@ -1,0 +1,6 @@
+#ifndef ASSIGNMENT3_VC_FIBONACCI_H
+#define ASSIGNMENT3_VC_FIBONACCI_H
+
+int vc_fibonacci(int n);
+
+#endif //ASSIGNMENT3_VC_FIBONACCI_H

@@ -1,0 +1,6 @@
+#ifndef ASSIGNMENT5_VC_PUTSTR_NON_PRINTABLE_H
+#define ASSIGNMENT5_VC_PUTSTR_NON_PRINTABLE_H
+
+void vc_putstr_non_printable(char *str);
+
+#endif //ASSIGNMENT5_VC_PUTSTR_NON_PRINTABLE_H

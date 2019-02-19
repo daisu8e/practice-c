@@ -12,26 +12,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3043298e-e1e1-467c-878a-b229ecd524c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Assignment2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment2/vc_atoi.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment2/vc_atoi.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment2/vc_div_mod.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment2/vc_div_mod.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment2/vc_pt.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment2/vc_pt.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment2/vc_putstr.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment2/vc_putstr.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment2/vc_strlen.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment2/vc_strlen.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment2/vc_strrev.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment2/vc_strrev.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment2/vc_swap.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment2/vc_swap.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment2/vc_ultimate_div_mod.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment2/vc_ultimate_div_mod.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment2/vc_ultimate_pt.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment2/vc_ultimate_pt.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment3/.idea/Assignment3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment3/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment3/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment3/vc_fibonacci.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment3/vc_fibonacci.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment3/vc_iterative_factorial.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment3/vc_iterative_factorial.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment3/vc_iterative_power.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment3/vc_iterative_power.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment3/vc_recursive_factorial.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment3/vc_recursive_factorial.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment3/vc_recursive_power.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment3/vc_recursive_power.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment4/.idea/Assignment4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment4/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment4/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment4/vc_strcapitalize.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment4/vc_strcmp.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment4/vc_strcpy.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment4/vc_strcpy.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment4/vc_strncpy.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment4/vc_strncpy.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment4/vc_strupcase.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -90,13 +105,18 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vc_putnbr.c">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
               <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -126,9 +146,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="722" />
-    <option name="width" value="718" />
-    <option name="height" value="900" />
+    <option name="y" value="22" />
+    <option name="width" value="1440" />
+    <option name="height" value="878" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -189,12 +209,12 @@
       <option name="presentableId" value="Default" />
       <updated>1549426802882</updated>
       <workItem from="1549426804275" duration="7558000" />
-      <workItem from="1549495106918" duration="2087000" />
+      <workItem from="1549495106918" duration="2229000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9645000" />
+    <option name="totallyTimeSpent" value="9787000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="878" extended-state="6" />
@@ -248,9 +268,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/vc_print_alphabet.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -346,6 +363,9 @@
           <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
