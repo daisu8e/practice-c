@@ -5,6 +5,7 @@
  */
 
 #include <stdio.h>
+#include <opencl-c.h>
 #include "vc_foreach.h"
 #include "vc_putnbr.h"
 #include "vc_map.h"
