@@ -12,37 +12,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7524bf9-3f61-478c-b101-9cafcaf3863d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Assignment8/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment8/Exercise05/.idea/Exercise05.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment8/Exercise05/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment8/Exercise05/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment8/Exercise05/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment8/Exercise05/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment8/Exercise05/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment8/Exercise05/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment8/Exercise05/vc_hexdump.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment8/vc_abs.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment8/vc_boolean.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment8/vc_param_to_tab.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment8/vc_param_to_tab.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Assignment8/vc_stock.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vc_any.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vc_any.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vc_count_if.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vc_count_if.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vc_foreach.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vc_foreach.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vc_is_sort.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vc_is_sort.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vc_map.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vc_map.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vc_putnbr.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vc_sort_words.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vc_sort_words.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vc_split_whitespaces.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vc_split_whitespaces.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment7/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project1/vc_isalnum.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project1/vc_isalnum.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project1/vc_memchr.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project1/vc_memchr.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project1/vc_memcmp.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project1/vc_memcmp.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,8 +45,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="758">
-              <caret line="84" selection-start-line="84" selection-end-line="84" />
+            <state relative-caret-position="450">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
             </state>
           </provider>
         </entry>
@@ -130,6 +109,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -166,16 +146,18 @@
       <workItem from="1550181802662" duration="7391000" />
       <workItem from="1550265274145" duration="366000" />
       <workItem from="1550270051780" duration="362000" />
+      <workItem from="1550623469030" duration="559000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8119000" />
+    <option name="totallyTimeSpent" value="8678000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="878" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -344,8 +326,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="758">
-          <caret line="84" selection-start-line="84" selection-end-line="84" />
+        <state relative-caret-position="450">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
         </state>
       </provider>
     </entry>
