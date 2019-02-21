@@ -12,12 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7524bf9-3f61-478c-b101-9cafcaf3863d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Project1/vc_memdel.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project1/vc_memdel.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project1/vc_strmap.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project1/vc_strmap.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project1/vc_strsplit.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Project1/vc_strsplit.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project1/vc_strchr.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project1/vc_strchr.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Assignment7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment7/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Project1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project1/.idea/workspace.xml" afterDir="false" />
@@ -156,12 +152,12 @@
       <workItem from="1550181802662" duration="7391000" />
       <workItem from="1550265274145" duration="366000" />
       <workItem from="1550270051780" duration="362000" />
-      <workItem from="1550623469030" duration="4806000" />
+      <workItem from="1550623469030" duration="5097000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12925000" />
+    <option name="totallyTimeSpent" value="13216000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />

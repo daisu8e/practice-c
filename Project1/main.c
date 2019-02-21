@@ -9,6 +9,7 @@
 #include "vc_memdel.h"
 #include "vc_strmap.h"
 #include "vc_strsplit.h"
+#include "vc_strchr.h"
 
 static void start(char *title) {
   printf("\n%s ----------\n", title);
@@ -86,13 +87,23 @@ static void test_vc_strsplit() {
   end();
 }
 
+static void test_vc_strchr() {
+  start("vc_strchr");
+  char str[] = "abcdefg";
+  char *res = vc_strchr(str, 'x');
+  if (res == NULL) printf("NULL");
+  else printf("%s", res);
+  end();
+}
+
 int main() {
-  test_vc_memmove();
-  test_vc_memchr();
-  test_vc_memcmp();
-  test_vc_isalnum();
-  test_vc_memdel();
-  test_vc_strmap();
-  test_vc_strsplit();
+//  test_vc_memmove();
+//  test_vc_memchr();
+//  test_vc_memcmp();
+//  test_vc_isalnum();
+//  test_vc_memdel();
+//  test_vc_strmap();
+//  test_vc_strsplit();
+  test_vc_strchr();
   return 0;
 }
