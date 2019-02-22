@@ -20,8 +20,8 @@ static void end() {
 }
 
 static char to_upper_case(char c) {
-  if (!('A' <= c && c <= 'Z' || 'a' <= c && c <= 'z')) return c;
-  return c - ('a' - 'A');
+  if (!(('A' <= c && c <= 'Z') || ('a' <= c && c <= 'z'))) return c;
+  return (char)(c - ('a' - 'A'));
 }
 
 static void test_vc_memmove() {
@@ -65,7 +65,7 @@ static void test_vc_memdel() {
   char *p1 = a;
   char *p2 = b;
   for (; *p1; p1++, p2++) *p2 = *p1;
-  vc_memdel(&b);
+  vc_memdel((void **)&b);
   if (b == NULL) printf("NULL");
   else printf("Not NULL");
   end();
@@ -83,7 +83,7 @@ static void test_vc_strsplit() {
   start("vc_strsplit");
   char **result = vc_strsplit("*hello*fellow***students*", '*');
   char **p = result;
-  for (; **p; *p++) printf("%s\n", *p);
+  for (; **p; p++) printf("%s\n", *p);
   end();
 }
 
@@ -97,13 +97,13 @@ static void test_vc_strchr() {
 }
 
 int main() {
-//  test_vc_memmove();
-//  test_vc_memchr();
-//  test_vc_memcmp();
-//  test_vc_isalnum();
-//  test_vc_memdel();
-//  test_vc_strmap();
-//  test_vc_strsplit();
+  test_vc_memmove();
+  test_vc_memchr();
+  test_vc_memcmp();
+  test_vc_isalnum();
+  test_vc_memdel();
+  test_vc_strmap();
+  test_vc_strsplit();
   test_vc_strchr();
   return 0;
 }
