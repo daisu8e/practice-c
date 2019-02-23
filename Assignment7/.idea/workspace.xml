@@ -12,10 +12,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="daf0706b-6b57-4db1-87fe-ca52e9e94eb8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Project1/test_vc_isalnum.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project1/test_vc_memchr.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project1/test_vc_memcmp.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project1/test_vc_memdel.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project1/test_vc_memmove.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project1/test_vc_strchr.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project1/test_vc_strsplit.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Assignment9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment9/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Project1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project1/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Project1/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project1/vc_memmove.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Project1/vc_memmove.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project1/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Project1/CMakeLists.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
